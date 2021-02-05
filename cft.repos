@@ -1,0 +1,33 @@
+repositories:
+  rmw:
+    type: git
+    url: https://github.com/iuhilnehc-ynos/rmw.git
+    version: topic-cft-support
+  rmw_implementation:
+    type: git
+    url: https://github.com/iuhilnehc-ynos/rmw_implementation.git
+    version: topic-cft-support
+  rmw_connextdds:
+    type: git
+    url: https://github.com/iuhilnehc-ynos/rmw_connextdds.git
+    version: topic-cft-support
+  rmw_fastrtps:
+    type: git
+    url: https://github.com/iuhilnehc-ynos/rmw_fastrtps.git
+    version: topic-cft-support-stub
+  rmw_cyclonedds:
+    type: git
+    url: https://github.com/iuhilnehc-ynos/rmw_cyclonedds.git
+    version: topic-cft-support-stub
+  rcl:
+    type: git
+    url: https://github.com/iuhilnehc-ynos/rcl.git
+    version: topic-cft-support
+  rclcpp:
+    type: git
+    url: https://github.com/iuhilnehc-ynos/rclcpp.git
+    version: topic-cft-support
+  demos:
+    type: git
+    url: https://github.com/iuhilnehc-ynos/ros2-demos.git
+    version: topic-cft-support
